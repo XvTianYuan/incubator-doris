@@ -28,7 +28,7 @@ Its original name was Palo, developed in Baidu. After donating it to Apache Soft
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 ## 2. Technology
-Doris mainly integrates the technology of Google Mesa and Apache Impala, and it is based on a column-oriented storage engine and can communicate by MySQL client.
+Doris mainly integrates the technology of Google Mesa and Apache Impala, and it is based on a column-oriented storage engine and can communicate with MySQL client.
 
 ## 3. User cases
 Doris not only provides high concurrent low latency point query performance, but also provides high throughput queries of ad-hoc analysis.
